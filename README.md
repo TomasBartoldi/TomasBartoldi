@@ -7,7 +7,6 @@
 **TomasBartoldi/TomasBartoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🇦🇷 Argentina
 
-Here are some ideas to get you started:
 - 📫 Cómo contactarme: **bartoldit@gmail.com**
 <!--
 - 🔭 I’m currently working on ...
