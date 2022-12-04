@@ -3,13 +3,13 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <p>Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</p>
 
-<!--
-**MateoReynosoM/TomasBartoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**TomasBartoldi/TomasBartoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🇦🇷 Argentina
 
 Here are some ideas to get you started:
 - 📫 Cómo contactarme: **bartoldit@gmail.com**
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
